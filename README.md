@@ -1,2 +1,2 @@
 # ME592HW3_IMAGEANALYTICS1-
-Please use two zip files (Leaf_Images and canopy) for running the uploaded code.
+Please use the zip file (canopy) for running the uploaded code.
